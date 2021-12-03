@@ -29,6 +29,7 @@ library
       Solver
       Solver.Day1
       Solver.Day2
+      Solver.Day3
   other-modules:
       Paths_aoc2021
   hs-source-dirs:

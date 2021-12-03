@@ -15,4 +15,6 @@ run = do
     "1b" -> solve1b input
     "2a" -> solve2a input
     "2b" -> solve2b input
+    "3a" -> solve3a input
+    "3b" -> solve3b input
     _ -> putStrLn "Not implemented"
